@@ -2,7 +2,7 @@
 
 namespace FinancialSystems
 {
-    public class Class1
+    public class GiftCard
     {
     }
 }
