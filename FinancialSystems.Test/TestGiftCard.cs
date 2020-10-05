@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace FinancialSystems.Test
 {
-    public class Tests
+    public class TestGiftCard
     {
         [SetUp]
         public void Setup()
